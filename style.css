@@ -41,8 +41,8 @@ li{
   font-family: Arial, sans-sans-serif;
 }
 a{
-  color: inherit;
-  font-family: inherit;
+  color: black;
+  font-family: Arial, sans-sans-serif;
 }
 a:visited{
   color: inherit;
