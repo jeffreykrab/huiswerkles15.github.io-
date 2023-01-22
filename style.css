@@ -1,0 +1,90 @@
+body{
+  background-color: #B0C4DE;
+  color: #000000;
+  font-family: Arial, sans-sans-serif;
+  padding: 10px;
+}
+header{
+background-color: #778899;
+padding: 5px;
+margin-left: 100px;
+margin-right: 100px;
+}
+footer{
+background-color: #778899;
+padding: 5px;
+margin-left: 100px;
+margin-right: 100px;
+font-family: Arial, sans-sans-serif;
+font-size: 0.5em;
+text-align: right;
+}
+div{
+  background-color: #778899;
+  margin-left: 100px;
+  margin-right: 100px;
+  padding: 15px;
+}
+p{
+  background-color: #F0F8FF;
+}
+ul{
+  background-color: #778899;
+}
+li{
+  display: inline-block;
+  background-color: #B0C4DE;
+  padding: 5px;
+  border-style: solid;
+  border-color: #F0F8FF;
+  color: black;
+  font-family: Arial, sans-sans-serif;
+}
+a:visited{
+  color: inherit;
+  font-family: inherit;
+}
+table{
+  background-color: #F0F8FF;
+  width: 100%;
+}
+Form{
+  background-color: #F0F8FF;
+}
+h1{
+  font-family: Arial, sans-sans-serif;
+  font-size: 1.5em;
+  background-color: #F0F8FF;
+  padding: 5px;
+}
+h2{
+  font-family: Arial, sans-sans-serif;
+  font-size: 1.2em;
+  background-color: #F0F8FF;
+  padding: 5px;
+}
+button{
+  font-family: Arial, sans-sans-serif;
+}
+button:active{
+  font-family: Arial, sans-sans-serif;
+  background-color: Navy;
+  color: white;
+}
+input{
+  font-family: "Lucida Console", monospace;
+}
+textarea{
+  font-family: "Lucida Console", monospace;
+}
+.bold{
+  font-weight: bold;
+  background-color: #DCDCDC;
+}
+img{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  height: 300px;
+  width: 200px;
+}
