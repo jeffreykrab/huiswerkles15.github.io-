@@ -48,6 +48,7 @@ a:link{
 a:visited{
   color: inherit;
   font-family: inherit;
+  text-decoration: none;
 }
 table{
   background-color: #F0F8FF;
