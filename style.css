@@ -40,9 +40,10 @@ li{
   color: black;
   font-family: Arial, sans-sans-serif;
 }
-a{
+a:link{
   color: black;
   font-family: Arial, sans-sans-serif;
+  text-decoration: none; 
 }
 a:visited{
   color: inherit;
